@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\Dosyalar\Veriler\Veri Yapıları Ödev-Teslimİçin\Kuyruk\152802029_2\152802029_2\kuyruk\obj\Debug\kuyruk.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Dosyalar\Veriler\Veri Yapıları Ödev-Teslimİçin\Kuyruk\152802029_2\152802029_2\kuyruk\obj\Debug\_152802029_2.Form1.resources
+C:\Users\DELL\Desktop\Dosyalar\Veriler\Veri Yapıları Ödev-Teslimİçin\Kuyruk\152802029_2\152802029_2\kuyruk\obj\Debug\kuyruk.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Dosyalar\Veriler\Veri Yapıları Ödev-Teslimİçin\Kuyruk\152802029_2\152802029_2\kuyruk\bin\Debug\152802029_2.exe.config
+C:\Users\DELL\Desktop\Dosyalar\Veriler\Veri Yapıları Ödev-Teslimİçin\Kuyruk\152802029_2\152802029_2\kuyruk\bin\Debug\152802029_2.exe
+C:\Users\DELL\Desktop\Dosyalar\Veriler\Veri Yapıları Ödev-Teslimİçin\Kuyruk\152802029_2\152802029_2\kuyruk\bin\Debug\152802029_2.pdb
+C:\Users\DELL\Desktop\Dosyalar\Veriler\Veri Yapıları Ödev-Teslimİçin\Kuyruk\152802029_2\152802029_2\kuyruk\obj\Debug\_152802029_2.Properties.Resources.resources
+C:\Users\DELL\Desktop\Dosyalar\Veriler\Veri Yapıları Ödev-Teslimİçin\Kuyruk\152802029_2\152802029_2\kuyruk\obj\Debug\kuyruk.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Dosyalar\Veriler\Veri Yapıları Ödev-Teslimİçin\Kuyruk\152802029_2\152802029_2\kuyruk\obj\Debug\152802029_2.exe
+C:\Users\DELL\Desktop\Dosyalar\Veriler\Veri Yapıları Ödev-Teslimİçin\Kuyruk\152802029_2\152802029_2\kuyruk\obj\Debug\152802029_2.pdb
